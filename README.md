@@ -54,4 +54,4 @@ Conception d’un module de **segmentation sémantique** intégré dans un pipel
 ## 📫 Retrouve-moi aussi ici :
 
 - 🌐 [Portfolio](https://julienagneray.com)
-- 💼 [LinkedIn](www.linkedin.com/in/julien-agneray)
+- 💼 [LinkedIn](https://www.linkedin.com/in/julien-agneray/)
