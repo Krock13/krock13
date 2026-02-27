@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Krock13/krock13/master/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
